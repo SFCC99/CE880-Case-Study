@@ -6,3 +6,5 @@ Open the code on Google Colab.
 Clik on runtime, and then use the option run all.
 # Step 3
 Read the titles to understand each section and each graph. 
+# PD: 
+The cvs file is the data used in this case study 
